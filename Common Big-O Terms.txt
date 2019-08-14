@@ -1,0 +1,7 @@
+Notation        Description             Example
+========== ========== ========== ========== ========== ========== ========== ========== ========== ========== ========== ==========
+O(1)            Constanct Time          Looking up a single element in an array
+O(log n)        Logarithmic             Finding an item in a sorted array with a binary search
+O(n)            Linear time             Searching an unsorted array for a specific value
+O(n log n)      Log-linear              Complex sorting algorithms like heap sort and merge sort
+O(n^2)          Quadratic               Simple sorting algorithms, such as bubble sor, selection sort, and instertion sort
